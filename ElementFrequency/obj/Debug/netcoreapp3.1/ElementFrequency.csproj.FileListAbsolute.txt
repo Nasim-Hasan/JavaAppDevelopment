@@ -1,0 +1,13 @@
+C:\MyProjects\ElementFrequency\bin\Debug\netcoreapp3.1\ElementFrequency.exe
+C:\MyProjects\ElementFrequency\bin\Debug\netcoreapp3.1\ElementFrequency.deps.json
+C:\MyProjects\ElementFrequency\bin\Debug\netcoreapp3.1\ElementFrequency.runtimeconfig.json
+C:\MyProjects\ElementFrequency\bin\Debug\netcoreapp3.1\ElementFrequency.runtimeconfig.dev.json
+C:\MyProjects\ElementFrequency\bin\Debug\netcoreapp3.1\ElementFrequency.dll
+C:\MyProjects\ElementFrequency\bin\Debug\netcoreapp3.1\ElementFrequency.pdb
+C:\MyProjects\ElementFrequency\obj\Debug\netcoreapp3.1\ElementFrequency.csprojAssemblyReference.cache
+C:\MyProjects\ElementFrequency\obj\Debug\netcoreapp3.1\ElementFrequency.AssemblyInfoInputs.cache
+C:\MyProjects\ElementFrequency\obj\Debug\netcoreapp3.1\ElementFrequency.AssemblyInfo.cs
+C:\MyProjects\ElementFrequency\obj\Debug\netcoreapp3.1\ElementFrequency.csproj.CoreCompileInputs.cache
+C:\MyProjects\ElementFrequency\obj\Debug\netcoreapp3.1\ElementFrequency.dll
+C:\MyProjects\ElementFrequency\obj\Debug\netcoreapp3.1\ElementFrequency.pdb
+C:\MyProjects\ElementFrequency\obj\Debug\netcoreapp3.1\ElementFrequency.genruntimeconfig.cache
