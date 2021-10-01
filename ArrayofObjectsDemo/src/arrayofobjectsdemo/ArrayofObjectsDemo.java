@@ -22,7 +22,7 @@ public class ArrayofObjectsDemo {
 		Scanner input = new Scanner(System.in);
 		Scanner input1 = new Scanner(System.in);
 		
-		for (int i=0;i<3;i++)
+		for (int i=0;i<objAccount.length;i++)
 		{
 			objAccount[i]=new Account(); //..Instantiating Objects in an Array..//
 			
