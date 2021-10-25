@@ -3,6 +3,8 @@
  */
 package substringdemo;
 
+
+
 /**
  * @author nhasa
  *
@@ -19,7 +21,8 @@ public class SubstringDemo {
 		Str=Str.substring(0,7);
 		
 		System.out.println("Substring Demo:"+Str);
-
-	}
+		
+		
+	 }
 
 }
