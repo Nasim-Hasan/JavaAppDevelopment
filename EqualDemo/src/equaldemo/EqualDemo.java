@@ -20,6 +20,8 @@ public class EqualDemo {
 		result= 4.0/3.0*12.0;
 		result1= (4.0*12.0)/3.0;
 		
+		//System.out.println("Result:"+result+" "+"Result1:"+result1);
+		
 		if(result==result1)
 		{
 			System.out.println("The Expressions Are Equal");
