@@ -32,6 +32,16 @@ public class MapInterfaceDemo {
 			System.out.println("Hash Map:"+objmap.get(i));
 		}
 		
+		//..Repetition of Key...//
+		objmap.put(1,"Shamim");
+		objmap.put(2,"Karim");
+		objmap.put(2,"Reza");
+		
+		for (int i=1;i<=objmap.size();i++)
+		{
+			System.out.println("Hash Map (Repetition of Key):"+objmap.get(i));
+		}
+		
 		//...TreeMap....//
 		Map<Integer,String> obj1map=new TreeMap<Integer,String>();
 		
