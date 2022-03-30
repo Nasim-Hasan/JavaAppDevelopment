@@ -4,9 +4,7 @@
 package junittestrunnertestcases;
 
 import static org.junit.Assert.assertEquals;
-
 import org.junit.Test;
-
 import junittestrunner.*; //..Importing the Package..//
 
 /**
@@ -16,6 +14,7 @@ import junittestrunner.*; //..Importing the Package..//
 public class TestJUnitTestCases {
 	
 	JUnitTestCases obj = new JUnitTestCases();
+	JUnitTestRunner obj1 = new JUnitTestRunner();
 	
 
     @Test  
@@ -47,5 +46,9 @@ public class TestJUnitTestCases {
     public void removeAll() {  
         obj.removeAll();  
     }  
+    
+
+
+
 
 }
