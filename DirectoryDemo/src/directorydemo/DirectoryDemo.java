@@ -27,7 +27,7 @@ public class DirectoryDemo {
 		}
 		catch(IOException e)
 		{
-			;
+			System.out.println("Exception:"+e.toString());
 		}
 		
 
