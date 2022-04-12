@@ -11,7 +11,9 @@ public class Car {
 	
 	private String CarName="";
 	
-	Car(String CarName) //..Constructor...//
+	Car(){} //..Default Constructor..//
+	
+	Car(String CarName) //..Parameterized Constructor...//
 	{
 		this.CarName=CarName;
 		
