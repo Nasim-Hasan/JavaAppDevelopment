@@ -39,9 +39,11 @@ public class MethodOverridingDemo {
 		// TODO Auto-generated method stub
 		A objA = new A(); //Instance of Class A
 		A objB = new B(); //Instance of Class B
+		A objC= new B(); //Instance of Class B
 		
 		objA.show();
 		objB.show();
+		objC.show();
 
 	}
 
