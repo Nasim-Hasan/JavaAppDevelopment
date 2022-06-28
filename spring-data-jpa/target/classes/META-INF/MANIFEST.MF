@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
-Built-By: BJIT
-Build-Jdk: 17.0.1
+Built-By: nhasa
+Build-Jdk: 13.0.2
 Implementation-Title: Spring Boot Spring Data JPA
 Implementation-Version: 1.0
 Implementation-Vendor-Id: org.springframework.boot
