@@ -6,13 +6,15 @@ package coprimedemo;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
 /**
- * @author Nasim Hasan
+ * @author nhasa
  *
  */
 public class CoPrimeDemo {
 
+	/**
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int number;
