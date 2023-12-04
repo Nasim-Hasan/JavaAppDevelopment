@@ -19,8 +19,6 @@ class Node
 	   this.next=null;
 	   
    }
-
-
 }
 
 public class CircularLinkList {
@@ -53,10 +51,7 @@ public class CircularLinkList {
 			tail=newNode;
 			
 		}
-		
-		
 	}
-	
 	
 	public void display()
 	{
@@ -81,9 +76,7 @@ public class CircularLinkList {
 		
 	}
 	
-	
-	
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		CircularLinkList objCircularLinkList = new CircularLinkList();
 		
@@ -99,5 +92,4 @@ public class CircularLinkList {
 		objCircularLinkList.display();
 
 	}
-
 }

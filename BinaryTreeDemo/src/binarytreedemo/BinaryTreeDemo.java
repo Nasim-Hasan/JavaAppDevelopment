@@ -22,10 +22,7 @@ class Node
 	  
   }
 
-
-
 }
-
 
 public class BinaryTreeDemo {
 
@@ -74,14 +71,11 @@ public class BinaryTreeDemo {
 				   
 				   
 			   }
-			   
-			   
-		   }
+			}
 		}
 	}
 		
-
-	public void inordertraverse(Node node)
+    public void inordertraverse(Node node)
 	{
 		if(node==null)
 		{
@@ -104,9 +98,8 @@ public class BinaryTreeDemo {
 			
 			
 		}
-		
-		
-	}
+	
+	 }
 	
 	public void preordertraverse(Node node)
 	{

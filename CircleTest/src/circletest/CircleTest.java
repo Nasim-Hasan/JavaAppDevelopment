@@ -31,9 +31,6 @@ class Circle extends Shape{
 	
 }
 
-
-
-
 public class CircleTest {
 
 	/**
@@ -41,7 +38,7 @@ public class CircleTest {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Circle obj = new Circle("text");
+		Circle obj = new Circle("Text");
 		System.out.println(obj.Cid);
 
 	}
