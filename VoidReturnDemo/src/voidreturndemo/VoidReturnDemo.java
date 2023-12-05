@@ -29,8 +29,8 @@ public class VoidReturnDemo {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		doCompare(12);
+		doCompare(89);
+		doCompare(8);
 	}
 
 }

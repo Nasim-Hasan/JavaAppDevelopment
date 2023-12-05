@@ -22,7 +22,7 @@ public class Main {
         nature.add(colors);
 
         // Get the iterator
-        Iterator it = nature.iterator();
+        Iterator<List<String>> it = nature.iterator();
 
         System.out.println(it.hasNext());
 

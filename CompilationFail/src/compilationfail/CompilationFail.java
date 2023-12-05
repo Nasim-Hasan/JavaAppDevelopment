@@ -19,10 +19,10 @@ class Parent{
 
 class Child extends Parent{
 	
-//	public Double get() //...Compile Will Fail in Here..//
-//	{
-//		return 2.0;
-//	}
+	/*
+	 * public Double get() //...Compile Will Fail in Here..// 
+	 * { return 2.0; }
+	 */
 	
 	public Integer get() 
 	{

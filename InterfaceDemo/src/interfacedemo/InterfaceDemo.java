@@ -26,9 +26,6 @@ class Animal implements Cat
 
 }
 
-
-
-
 public class InterfaceDemo {
 
 	/**

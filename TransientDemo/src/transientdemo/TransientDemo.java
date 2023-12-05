@@ -33,7 +33,7 @@ public class TransientDemo {
 	public static void main(String[] args) throws IOException, ClassNotFoundException {
 		// TODO Auto-generated method stub
 		
-		 Member temp =new Member( 2, "Clausia");//creating object
+		 Member temp =new Member( 2, "Claudia");//creating object
 	     
 		
 		try {//Writing temp object into file

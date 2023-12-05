@@ -20,7 +20,4 @@ public class StringStr extends Operation{
 		// TODO Auto-generated method stub
 		return arg1+arg2;
 	}
-	
-	
-
 }

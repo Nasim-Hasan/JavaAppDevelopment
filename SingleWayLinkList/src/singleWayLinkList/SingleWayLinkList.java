@@ -19,9 +19,6 @@ class Node
 	   this.next=null;
    }
 
-
-
-
 }
 
 public class SingleWayLinkList {
@@ -96,7 +93,5 @@ public class SingleWayLinkList {
 		//..Displaying Nodes..//
 		objSingleWayLinkList.display();
 		
-
-	}
-
+    }
 }

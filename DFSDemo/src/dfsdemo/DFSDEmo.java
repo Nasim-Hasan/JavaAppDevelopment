@@ -59,7 +59,7 @@ public class DFSDEmo {
 		
 		System.out.println("DFS Traverse:");
 		
-		for(int i =0;i<nodes;i++)
+		for(int i=0;i<nodes;i++)
 		{
 		    if(visited[index]==0)
 		    {

@@ -31,5 +31,4 @@ public class StreamPeekDemo {
 	      .peek(e -> e.show())
 	      .collect(Collectors.toList());
 	    }
-
 }

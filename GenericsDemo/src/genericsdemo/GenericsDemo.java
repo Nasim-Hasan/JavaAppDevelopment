@@ -17,8 +17,6 @@ class Test<T>
 
 }
 
-
-
 public class GenericsDemo {
 
 	/**

@@ -51,9 +51,6 @@ class B extends A
 
 }
 
-
-
-
 public class InheritanceDemo {
 
 	/**

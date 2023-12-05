@@ -38,11 +38,6 @@ public class FactorialDemo {
         
         System.out.println("Factorial:"+factorial(num));
         
-        
         sc.close();
-        
-        
-        
-	}
-
+      }
 }

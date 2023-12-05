@@ -92,11 +92,7 @@ public class DayofaDateDemo {
 	        return diff;
 	    } 
 
-	
-	
-	
-	
-	public static void main(String[] args) {
+	 public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 
 		System.out.println("Day Name :" + findDayName(11, 30, 2019));

@@ -21,8 +21,6 @@ public class Customer {
 		this.age=age;
 	}
 	
-	
-	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Customer c1= new Customer("John",20); //..Object#1
