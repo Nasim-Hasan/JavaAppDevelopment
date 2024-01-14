@@ -36,7 +36,7 @@ public class GreatestCommonDivisor {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a=20,b=30;
+		int a=10,b=30;
 		// calling gcd() method over
 	    System.out.println("GCD = " + gcd(a,b));
 	}
