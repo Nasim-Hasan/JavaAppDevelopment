@@ -23,7 +23,7 @@ class B extends A
 	B()
 	{
 		super(6);
-		//this();  //this() & super can not be used in the same function
+		//this();  //this() & super() can not be used in the same function
 	}
 
 
