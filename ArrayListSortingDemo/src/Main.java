@@ -22,5 +22,9 @@ public class Main {
 
         // Print the sorted ArrayList
         System.out.println("Sorted ArrayList " + "in Ascending order : " + list);
+
+        Collections.sort(list,Collections.reverseOrder());
+        // Print the sorted ArrayList
+        System.out.println("Sorted ArrayList " + "in Descending order : " + list);
     }
 }
