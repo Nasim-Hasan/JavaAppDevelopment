@@ -12,6 +12,8 @@ public class Main {
                 .map(x -> x * x)
                 .collect(Collectors.toList());
 
+        System.out.println(square);
+
         // create a list of String
         List<String> names = Arrays.asList(
                 "Reflection", "Collection", "Stream");
