@@ -25,7 +25,7 @@ public class FinalStaticDemo {
 		objFinalStaticDemo.id = 20;
 		System.out.println("Company Name:"+objFinalStaticDemo.company);
 		System.out.println("Registration Number:"+objFinalStaticDemo.regNo);
-		System.out.println("Company IF:"+objFinalStaticDemo.id);
+		System.out.println("Company ID:"+objFinalStaticDemo.id);
 
 	}
 }
