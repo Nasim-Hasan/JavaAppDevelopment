@@ -20,8 +20,8 @@ public class AnonymousInterface {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(new Alnf() {  //..Anonymous Interface..//
-			
+		System.out.println(new Alnf() {
+			//..Anonymous Interface..//
 			public String toString()
 			{
 				return "Success";
